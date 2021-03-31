@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/avancado.core/avancado.core.iml" filepath="$PROJECT_DIR$/avancado.core/avancado.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avancado.utils/avancado.utils.iml" filepath="$PROJECT_DIR$/avancado.utils/avancado.utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-dio.iml" filepath="$PROJECT_DIR$/java-dio.iml" />
     </modules>
   </component>
